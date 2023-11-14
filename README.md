@@ -1,9 +1,9 @@
 <div align="center">
 <h3>Contact İnformation</h3>
-<a href="https://discord.com/users/587226360033050653" target"blank_"><img src="https://img.shields.io/badge/Kayega%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://sptfy.com/atacan" target"blank_"><img src="https://img.shields.io/badge/Kayega%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/s" target"blank_"><img src="https://img.shields.io/badge/Kayega%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://github.com/atacancengiz" target"blank_"><img src="https://img.shields.io/badge/Kayega%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://discord.com/users/587226360033050653" target"blank_"><img src="https://img.shields.io/badge/atacan%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://sptfy.com/atacan" target"blank_"><img src="https://img.shields.io/badge/atacan%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/s" target"blank_"><img src="https://img.shields.io/badge/atacan%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/atacancengiz" target"blank_"><img src="https://img.shields.io/badge/atacan%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 
